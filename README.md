@@ -1,4 +1,4 @@
-# *PROJECT NAME*
+# *Mad Libs*
 #### By Trent Dietzel
 
 ## Table of Contents
@@ -12,12 +12,12 @@
 - [Contact](#contact)
 
 ## About
-*ABOUT SECTION*
+The primary functionality of the application is to provide users with interactive Mad Libs experiences. Users can choose from different Mad Libs themes, such as "Road Trips" or a "Christmas Mad Lib theme," and fill in various parts of speech to create humorous and entertaining stories.
 
-The primary functionality of the application is *FILL IN*...:
-- 
-- 
-- 
+## Features
+- **Theme Selection**: Users can choose from different Mad Libs themes, including "Road Trip" and "Christmas."
+- **Dynamic Story Generation**: The application dynamically generates stories based on user input for nouns, verbs, adjectives, adverbs, and more.
+- **Multiple Mad Libs**: The application supports multiple Mad Libs scenarios, providing users with a variety of storytelling experiences.
 
 ## Technologies Used
 - **Language**: C#
@@ -28,21 +28,16 @@ The primary functionality of the application is *FILL IN*...:
 - **Testing**: MSTest
 - **Build Tool**: MSBuild
 
-## Features
-- **FEATURE**: 
-- **FEATURE**: 
-
 ## Installation
-
 Follow these steps to set up the project locally:
 1. Open Git BASH [Download Link](https://gitforwindows.org/)
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/tdietzel/*PROJECT NAME*
+   git clone https://github.com/tdietzel/MadLibs
    ```
 3. Open the project directory:
    ```bash
-   cd *PROJECT NAME*
+   cd MadLibs
    ```
 4. Open in a code editor like __Visual Studio Code__.
 5. In the command line, run the command ``` dotnet run ``` to compile and execute the console application. Since this is a console application, you'll interact with it through text commands in your terminal.
